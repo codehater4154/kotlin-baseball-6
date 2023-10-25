@@ -60,4 +60,5 @@ fun checkGuess(userInput: String, computerNumber: String): String {
     return "$strikesMessage $ballsMessage $nothingMessage"
 }
 
-}
+};
+//done
